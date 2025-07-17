@@ -43,9 +43,9 @@ bot = Client(
     bot_token=BOT_TOKEN
 )
 
-API_ID    = os.environ.get("API_ID", "21567814")
-API_HASH  = os.environ.get("API_HASH", "cd7dc5431d449fd795683c550d7bfb7e")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "7799414140:AAEpX2auXFGdZg0TIZ5DmRfk-zGFiCmXfSA") 
+API_ID    = os.environ.get("API_ID", "27438051")
+API_HASH  = os.environ.get("API_HASH", "472879ef2fe04c26968206cb853497c5")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "") 
 
 # Define aiohttp routes
 routes = web.RouteTableDef()
@@ -91,11 +91,11 @@ import random
 keyboard = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="📞 Contact", url="https://t.me/Strangerboy27_bot_strangerboy"),
-            InlineKeyboardButton(text="🛠️ Help", url="https://t.me/+EU-tiwyLZBMzY2Jl"),
+            InlineKeyboardButton(text="📞 Contact", url="https://t.me/t.me/@Kar_000000"),
+            InlineKeyboardButton(text="🛠️ Help", url="https://t.me/t.me/@Kar_000000"),
         ],
         [
-            InlineKeyboardButton(text="🪄 Updates Channel", url="https://t.me/hjvvgi"),
+            InlineKeyboardButton(text="🪄 Updates Channel", url="https://t.me/t.me/@Kar_000000"),
         ],
     ]
 )
@@ -104,11 +104,11 @@ keyboard = InlineKeyboardMarkup(
 Busy = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="📞 Contact", url="https://t.me/sanjaykagra86"),
-            InlineKeyboardButton(text="🛠️ Help", url="https://t.me/SSC_Aspirants_7"),
+            InlineKeyboardButton(text="📞 Contact", url="https://t.me/t.me/@Kar_000000"),
+            InlineKeyboardButton(text="🛠️ Help", url="https://t.me/t.me/@Kar_000000"),
         ],
         [
-            InlineKeyboardButton(text="🪄 Updates Channel", url="https://t.me/SSC_Aspirants_7"),
+            InlineKeyboardButton(text="🪄 Updates Channel", url="https://t.me/t.me/@Kar_000000"),
         ],
     ]
 )
@@ -645,7 +645,7 @@ async def start_command(bot: Client, message: Message):
         "➠ **Can Extract Videos & PDFs From Your Text File and Upload to Telegram!**\n"
         "➠ **For Guide Use Command /guide 📖**\n\n"
         "➠ **Use /STRANGER Command to Download From TXT File** 📄\n\n"
-        "➠ **𝐌𝐚𝐝𝐞 𝐁𝐲:** @SanjayKagra86🩷"
+        "➠ **𝐌𝐚𝐝𝐞 𝐁𝐲:** 🅼🅰🅷🅰🅳🅴🆅"
     )
 
     # Send the image with caption and buttons
@@ -1408,7 +1408,7 @@ async def moni_handler(client: Client, m: Message):
                     Show = f"""❊⟱ 𝐃𝐨𝐰𝐧𝐥𝐨𝐚𝐝𝐢𝐧𝐠 ⟱❊ »\n\n📄 **Title:** `{name}`\n⌨ **Quality:** {raw_text2}\n"""
                 
                     # Enhanced prog message
-                    prog = await m.reply_text(f"""**Downloading Video...**\n\n📄 **Title:** `{name}`\n⌨ **Quality:** {raw_text2}\n\n⚡ **Bot Made By 𝄟✮͢🦋⃟≛⃝m✮⃝oni🩷**""")
+                    prog = await m.reply_text(f"""**Downloading Video...**\n\n📄 **Title:** `{name}`\n⌨ **Quality:** {raw_text2}\n\n⚡ **Bot Made By 🅼🅰🅷🅰🅳🅴🆅**""")
                
                     res_file = await helper.download_video(url, cmd, name)
                     filename = res_file
