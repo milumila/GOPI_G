@@ -1,5 +1,5 @@
 <h1 align="center">
-  ✨ SAINI DRM Bot ✨
+  ✨ RADHE RADHE G ✨
 </h1>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-> 🔐 **Note:** CP DRM supported — Minimum quality **360p**  
+> 🔐 **Note:** ANTH BHE MAI ARAMBH BHE MAI **MADADEV**  
 > 🚫 **Do not remove the credit tag**
 
 ---
@@ -26,7 +26,7 @@
 ## 🚀 Deployment Process
 
 🎬 **Watch Full Deployment Tutorial:**  
-[![YouTube Video](https://img.shields.io/badge/Watch%20on-YouTube-red?style=for-the-badge&logo=youtube)](https://youtu.be/PYDtSTM6w44?si=noKPl7o4iU9SR_TO)
+[PLESE DONT WAGTE TIME BECAUSE](ANTH BHE MAI OR ARAMBH BHE MAI)
 
 ### Step-by-Step:
 1. **Fork** the Repository  
@@ -46,16 +46,16 @@
 
 ## 🤖 Bot Usernames
 
-- [@saini_contact_bot](https://t.me/saini_contact_bot)
-- [@saini_file_store_bot](https://t.me/saini_file_store_bot)
+- [MAHAKAL](BHOLE)
+- [MAHADEV](TRI_LOCHAN)
 
 ---
 
 ## 📂 Original Repositories
 
-- 🔗 [nikhilsainiop/saini-txt-direct](https://github.com/nikhilsainiop/saini-txt-direct)
-- 🔗 [cyberseller999/saini-txt-direct](https://github.com/cyberseller999/saini-txt-direct)
+- 🔗 [MAHAKAL](https://github.com/)
+- 🔗 [MAHADEV](https://github.com/)
 
 ---
 
-> 👨‍💻 Created with ❤️ by [@nikhil.saini.khe](https://instagram.com/nikhil.saini.khe)
+> 👨‍💻 Created with ❤️ by [MAHAKAL](AGHORI)
