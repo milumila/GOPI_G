@@ -53,8 +53,8 @@
 
 ## 📂 Original Repositories
 
-- 🔗 [MAHAKAL](https://github.com/)
-- 🔗 [MAHADEV](https://github.com/)
+- 🔗 [OHM](https://github.com/)
+- 🔗 [OHM](https://github.com/)
 
 ---
 
